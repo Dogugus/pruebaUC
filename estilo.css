@@ -1,0 +1,91 @@
+
+.seleccion2 li{
+    display: inline-block; 
+    }
+
+.seleccion2{
+    float: right; 
+}
+
+.seleccion2 a{
+    color: black;
+    text-decoration: none;
+    padding: 18px;
+    font-style: italic;
+}
+
+.seleccion2 a:hover{
+    background: #eb601f; 
+}
+
+.seleccion2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.submenu {
+    font-weight: bold;
+    list-style-type: none;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+}
+
+.submenu a{
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.submenu a:hover{
+    text-decoration: underline;
+}
+
+.submenu li{
+    display: inline-block;
+}
+
+.previo{
+    border-top-style: ridge;
+    border-width: 1px;
+}
+
+.slash1::before {
+    content: " / ";
+    padding: 8px;
+  }
+
+.slash1::after{
+    content: "/";
+    padding: 10px;
+}
+
+.slash2::after{
+    content: "/";
+    padding: 8px;
+}
+
+.slash3 {
+    color: gray;
+}
+
+.slash1 {
+    font-size: 12px;
+}
+
+.slash2 {
+    font-size: 12px;
+}
+
+.slash3 {
+    font-size: 12px;
+}
+
+.slash1 a{
+    text-decoration: none;
+    color: rgb(54, 54, 109);
+}
+
+.slash2 a{
+    text-decoration: none;
+    color:rgb(54, 54, 109);
+}
