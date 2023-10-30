@@ -89,3 +89,67 @@
     text-decoration: none;
     color:rgb(54, 54, 109);
 }
+
+.preing {
+    font-size: 14px;
+    line-height: 25px;
+    color: #f60;
+    border: 1px solid #f60;
+    padding: 5px 41px;
+    border-radius: 18px;
+    background: #fff;
+    text-align: center;
+    width : max-content;
+    margin: 0 auto;
+}
+
+.columna_i {
+    width: 50%;
+    float: left;
+   }
+
+.columna_d {
+    width: 50%;
+    float: left;
+}
+
+.titulo1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.titulo4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: normal;
+}
+
+.preing2{
+  border: 1px solid #f60;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 30px;
+  color: rgb(0, 0, 0);
+  background: #fff;
+  padding: 15px 55px;
+  margin-bottom: 100px;
+}
+
+.preing2 a{
+    text-decoration: none;
+    color: black;
+}
+
+.preing2 a:hover{
+    background-color: #f60;
+    color: #fff;
+    border-bottom: #eb601f;
+    padding: 15px;
+    border-radius:  25px;
+ }
+
+ .opcion6{
+    color: gray;
+    font-family: 'Courier New', Courier, monospace
+ }
+
